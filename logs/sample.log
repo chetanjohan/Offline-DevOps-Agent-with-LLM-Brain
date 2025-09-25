@@ -1,0 +1,5 @@
+INFO Starting up
+ERROR Something bad happened
+Warning: minor issue
+CRITICAL System failure
+INFO Done

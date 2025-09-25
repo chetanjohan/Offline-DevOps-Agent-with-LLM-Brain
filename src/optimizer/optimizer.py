@@ -1,6 +1,6 @@
-"""optimzer.py
+"""optimizer.py
 
-Simple optimizer placeholder (filename intentionally 'optimzer.py' to match repo).
+Correctly spelled optimizer module. Mirrors the existing `optimzer.py` implementation.
 """
 
 def optimize_task(task_name: str) -> None:
